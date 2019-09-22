@@ -1,0 +1,38 @@
+/*
+Theme Name: Flatsome Child Theme
+Theme URI: http://www.codeandpeace.com/
+Description: Pipeline Distro Theme
+Author: Bryan Snyder
+Author URI: http: //www.codeandpeace.com/
+Template: flatsome
+Version: 2.9.5.2
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+.link {
+	color: #006666;	
+}
+
+
+.slider-nav-light .flickity-page-dots .dot {
+	display: none !important;
+}
+
+.flickity-prev-next-button {
+	display: none !important;
+}
+
+
+
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+@media only screen and (max-width: 48em) {
+/* Added by Ben Kaminski */
+
+
+
+
+
+}
